@@ -1,0 +1,11 @@
+{
+  "name": "hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx ts-node HW5.ts"
+  },
+  "author": "Dm1ttry",
+  "license": "ISC"
+}
