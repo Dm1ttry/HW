@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npx ts-node HW5.ts"
+    "hw5": "npx ts-node HW5.ts",
+    "hw6ts": "npx ts-node HW6.ts",
+    "hw6js": "node HW6.js"
+
   },
   "author": "Dm1ttry",
   "license": "ISC"
