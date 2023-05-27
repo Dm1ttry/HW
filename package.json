@@ -6,7 +6,8 @@
   "scripts": {
     "hw5": "npx ts-node HW5.ts",
     "hw6ts": "npx ts-node HW6.ts",
-    "hw6js": "node HW6.js"
+    "hw6js": "node HW6.js",
+    "hw7": "npx ts-node Hw7.ts"
 
   },
   "author": "Dm1ttry",
