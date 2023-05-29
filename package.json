@@ -7,7 +7,8 @@
     "hw5": "npx ts-node HW5.ts",
     "hw6ts": "npx ts-node HW6.ts",
     "hw6js": "node HW6.js",
-    "hw7": "npx ts-node Hw7.ts"
+    "hw7": "npx ts-node Hw7.ts",
+    "hw8": "npx ts-node Hw8.ts"
 
   },
   "author": "Dm1ttry",
