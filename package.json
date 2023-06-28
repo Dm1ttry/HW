@@ -12,7 +12,8 @@
     "hw9": "npx ts-node Hw9.ts",
     "hw10": "npx ts-node Hw10.ts",
     "hw11": "npx ts-node Hw11.ts",
-    "hw12": "npx ts-node ./HW12/testcar.ts"
+    "hw12": "npx ts-node ./HW12/testcar.ts",
+    "hw14": "npx ts-node ./hw14/testproduct.ts"
   },
   "author": "Dm1ttry",
   "license": "ISC",
