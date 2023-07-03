@@ -1,4 +1,4 @@
-import Rating from "./rate"
+import Rating from "./Rate"
 
 export default class Product {
     constructor(
@@ -15,7 +15,7 @@ export default class Product {
         this.price = price,
         this.description = description,
         this.category = category,
-        this.image = image
+        this.image = image,
         this.rating = rating;
     }
 }
