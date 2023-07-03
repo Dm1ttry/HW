@@ -1,4 +1,4 @@
-import Product from "./base";
+import Product from "./Base_Product";
 import * as fs from "node:fs";
 
 export default class FileWriter {
